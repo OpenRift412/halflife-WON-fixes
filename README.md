@@ -4,6 +4,12 @@ This fork of the Half-Life SDK is focused on restoring functionality that have b
 
 That being said, the goal of this project is NOT to restore functionality that has been broken since the original launch build (i.e. scientist NPC's sense of smell) nor revert existing non-cosmetic functionality to older behaviors (i.e. 18 round glock mags), as that can be considered pre-release behavior and contradicts the intended presentation.
 
+Changes from Valve's Repo
+======================
+- Restored draw animation for grenades after throwing them
+- Restored original beam color for the Gluon Gun
+- Restored tau canon's beam colors and transparency
+
 Half Life 1 SDK LICENSE
 ======================
 
