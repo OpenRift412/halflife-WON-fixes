@@ -1,3 +1,9 @@
+Half Life Fixes
+======================
+This fork of the Half-Life SDK is focused on restoring functionality that have been broken with subsequent post-launch patches, essentially continuing where the 25th Anniversary Update left off in restoring the early WON-era (pre-1.1.0.0) presentation in a more modern package. All of this will be done whilst remaining as compatible as possible with online multiplayer and the mainline SDK as to not contradict the current features and functionality.
+
+That being said, the goal of this project is NOT to restore functionality that has been broken since the original launch build (i.e. scientist NPC's sense of smell) nor revert existing non-cosmetic functionality to older behaviors (i.e. 18 round glock mags), as that can be considered pre-release behavior and contradicts the intended presentation.
+
 Half Life 1 SDK LICENSE
 ======================
 
